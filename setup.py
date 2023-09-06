@@ -27,5 +27,4 @@ setup(
     "Development Status :: 4 - Beta",
     "Intended Audience :: Developers",
     ],
-    use_2to3=True,
 )
